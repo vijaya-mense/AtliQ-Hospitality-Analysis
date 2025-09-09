@@ -31,7 +31,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Revenue Analysis View
 
 <p align="center">
-    <img src='https://github.com/srishti-datasci/Atliq-Hospitality-Analysis-Power-BI-Project/blob/c4e84db6d3ea56e3f2dc9c0ab1f15070c3af3cd9/AtliQ_Hospitality_Analysis_PowerBI-main/resources/Revenue%20Overview.png' width="600">
+    <img src='https://github.com/vijaya-mense/AtliQ-Hospitality-Analysis/blob/249cdbd8f4a01f6c63e01c56c325b093429bfba4/Resources/Revenue%20overview.png' width="600">
 </p>
 
 
