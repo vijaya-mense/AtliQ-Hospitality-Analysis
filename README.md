@@ -25,7 +25,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Performance Analysis View
 
 <p align="center">
-    <img src='https://github.com/srishti-datasci/Atliq-Hospitality-Analysis-Power-BI-Project/blob/c4e84db6d3ea56e3f2dc9c0ab1f15070c3af3cd9/AtliQ_Hospitality_Analysis_PowerBI-main/resources/Performance%20Overview.png' width="600">
+    <img src=Resources/Booking overview.png>
 </p>
 
 ## Revenue Analysis View
